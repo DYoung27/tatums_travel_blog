@@ -1,0 +1,40 @@
+body {
+    background-color: #BEBEBE;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-image: url('https://www.stockvault.net/data/2020/01/22/272762/preview16.jpg');
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    background-size: cover;
+    color: white;
+    padding: 1%;
+}
+
+a {
+    color: #339999;
+    text-decoration: none;
+}
+
+article {
+    padding: 1%;
+    background-image: linear-gradient(white, lightgrey 90%);
+    border: outset;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+img {
+    border: 2px solid #339999;
+    border-radius: 10px;
+    height: 200px;
+    margin-bottom: 5px;
+}
+
+.subheading {
+    background-image: linear-gradient(black, black);
+    background-position: bottom left;
+    background-size: 100% 2px;
+    background-repeat: no-repeat;
+}
