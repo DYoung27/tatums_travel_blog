@@ -21,11 +21,11 @@ a {
 }
 
 article {
-    padding: 1%;
     background-image: linear-gradient(white, lightgrey 90%);
     box-shadow: 2px 2px;
     border-radius: 15px;
     margin-bottom: 5px;
+    padding: 1%;
 }
 
 img {
